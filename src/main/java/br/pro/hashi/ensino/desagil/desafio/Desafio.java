@@ -41,6 +41,8 @@ public class Desafio {
 
             // Inicia o relógio.
             timer.start();
+
+            Model.setWinner();
         });
     }
 }
